@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp01", "asp01\asp01.csproj", "{5AF68D82-B05D-4827-AEBD-7A9D6AAD34A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp01.Tests", "asp01.Tests\asp01.Tests.csproj", "{F09324D0-40A9-4D0C-A2FD-E9A80BCDE4C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF68D82-B05D-4827-AEBD-7A9D6AAD34A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF68D82-B05D-4827-AEBD-7A9D6AAD34A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF68D82-B05D-4827-AEBD-7A9D6AAD34A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF68D82-B05D-4827-AEBD-7A9D6AAD34A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09324D0-40A9-4D0C-A2FD-E9A80BCDE4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09324D0-40A9-4D0C-A2FD-E9A80BCDE4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09324D0-40A9-4D0C-A2FD-E9A80BCDE4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09324D0-40A9-4D0C-A2FD-E9A80BCDE4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
